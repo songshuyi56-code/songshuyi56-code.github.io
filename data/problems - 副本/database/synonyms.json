@@ -1,0 +1,25 @@
+{
+  "alias": "同义词练习",
+  "description": "根据词表选择配对的同义词，答题后查看中文释义。",
+  "star": 5,
+  "problems": [
+    {
+      "content": "在本词表中，与 succumb to 配对的同义表达是？",
+      "options": ["stave off", "yield to", "proclaim", "undermine"],
+      "analysis": "succumb to：屈服于；yield to：屈服于。",
+      "answer": 2
+    },
+    {
+      "content": "在本词表中，与 singular 配对的同义词是？",
+      "options": ["convoluted", "groundless", "unique", "easygoing"],
+      "analysis": "singular：独特的、单数的、奇异的；unique：独特的、独一无二的。这里记忆的是“独特的”这一含义。",
+      "answer": 3
+    },
+    {
+      "content": "在本词表中，与 exaggeration 配对的同义词是？",
+      "options": ["hyperbole", "realism", "objectivity", "exasperation"],
+      "analysis": "exaggeration：夸张、夸大；hyperbole：夸张。",
+      "answer": 1
+    }
+  ]
+}

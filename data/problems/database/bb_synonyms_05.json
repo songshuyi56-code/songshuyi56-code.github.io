@@ -1,0 +1,367 @@
+{
+  "alias": "BB同义词·第05页（30题）",
+  "description": "对应原PDF第8页，词表页码5。保留30组原配对及释义。",
+  "star": 5,
+  "problems": [
+    {
+      "id": "bb202603_p05_r01",
+      "content": "【词表第05页·第01组】与 unlinked 配对的词或短语是？",
+      "options": [
+        "nuancing",
+        "salient",
+        "diverse",
+        "estranged"
+      ],
+      "analysis": "原词表配对：unlinked ↔ estranged。\nunlinked：未连接的\nestranged：疏远的\n出处：PDF第8页，词表页码5，第1组。\n本题用于记忆词表配对；多义词的其他含义不一定相同。",
+      "answer": 4
+    },
+    {
+      "id": "bb202603_p05_r02",
+      "content": "【词表第05页·第02组】与 paucity 配对的词或短语是？",
+      "options": [
+        "dearth",
+        "elevated",
+        "perilous",
+        "exaggerate"
+      ],
+      "analysis": "原词表配对：paucity ↔ dearth。\npaucity：匮乏; 缺乏; 稀缺; 不足\ndearth：匮乏; 缺乏的; 吃紧\n出处：PDF第8页，词表页码5，第2组。\n本题用于记忆词表配对；多义词的其他含义不一定相同。",
+      "answer": 1
+    },
+    {
+      "id": "bb202603_p05_r03",
+      "content": "【词表第05页·第03组】与 perplexing 配对的词或短语是？",
+      "options": [
+        "diffident",
+        "enigmatic",
+        "unimpeachable",
+        "pristine"
+      ],
+      "analysis": "原词表配对：perplexing ↔ enigmatic。\nperplexing：令人费解的; 令人困惑的\nenigmatic：神秘的; 谜一样的; 难以捉摸的; 难以理解的\n出处：PDF第8页，词表页码5，第3组。\n本题用于记忆词表配对；多义词的其他含义不一定相同。",
+      "answer": 2
+    },
+    {
+      "id": "bb202603_p05_r04",
+      "content": "【词表第05页·第04组】与 protean 配对的词或短语是？",
+      "options": [
+        "versatile",
+        "gullible",
+        "mute",
+        "hedonistic"
+      ],
+      "analysis": "原词表配对：protean ↔ versatile。\nprotean：千变万化的; 万能的\nversatile：多才多艺的; 多面手的; 多功能的; 多用途的\n出处：PDF第8页，词表页码5，第4组。\n本题用于记忆词表配对；多义词的其他含义不一定相同。",
+      "answer": 1
+    },
+    {
+      "id": "bb202603_p05_r05",
+      "content": "【词表第05页·第05组】与 glut 配对的词或短语是？",
+      "options": [
+        "unfounded",
+        "drawn to",
+        "surfeit",
+        "momentary"
+      ],
+      "analysis": "原词表配对：glut ↔ surfeit。\nglut：过剩\nsurfeit：过量; 过多; 过剩\n出处：PDF第8页，词表页码5，第5组。\n本题用于记忆词表配对；多义词的其他含义不一定相同。",
+      "answer": 3
+    },
+    {
+      "id": "bb202603_p05_r06",
+      "content": "【词表第05页·第06组】与 relic 配对的词或短语是？",
+      "options": [
+        "undercut",
+        "foolish",
+        "self-evident",
+        "vestige"
+      ],
+      "analysis": "原词表配对：relic ↔ vestige。\nrelic：遗迹; 文物\nvestige：痕迹; 遗迹; 残余\n出处：PDF第8页，词表页码5，第6组。\n本题用于记忆词表配对；多义词的其他含义不一定相同。",
+      "answer": 4
+    },
+    {
+      "id": "bb202603_p05_r07",
+      "content": "【词表第05页·第07组】与 humility 配对的词或短语是？",
+      "options": [
+        "realize",
+        "modesty",
+        "unabated",
+        "meager"
+      ],
+      "analysis": "原词表配对：humility ↔ modesty。\nhumility：谦虚; 谦逊; 虚心\nmodesty：谦虚; 谦逊; 适度\n出处：PDF第8页，词表页码5，第7组。\n本题用于记忆词表配对；多义词的其他含义不一定相同。",
+      "answer": 2
+    },
+    {
+      "id": "bb202603_p05_r08",
+      "content": "【词表第05页·第08组】与 waning 配对的词或短语是？",
+      "options": [
+        "lethargic",
+        "comparable",
+        "ebbing",
+        "narrow"
+      ],
+      "analysis": "原词表配对：waning ↔ ebbing。\nwaning：衰弱; 衰退; 逐渐减弱\nebbing：衰退\n出处：PDF第8页，词表页码5，第8组。\n本题用于记忆词表配对；多义词的其他含义不一定相同。",
+      "answer": 3
+    },
+    {
+      "id": "bb202603_p05_r09",
+      "content": "【词表第05页·第09组】与 quiescent 配对的词或短语是？",
+      "options": [
+        "determine",
+        "objective",
+        "abeyant",
+        "estranged"
+      ],
+      "analysis": "原词表配对：quiescent ↔ abeyant。\nquiescent：静止的; 平静的\nabeyant：中止的; 暂时搁置的\n出处：PDF第8页，词表页码5，第9组。\n本题用于记忆词表配对；多义词的其他含义不一定相同。",
+      "answer": 3
+    },
+    {
+      "id": "bb202603_p05_r10",
+      "content": "【词表第05页·第10组】与 venerate 配对的词或短语是？",
+      "options": [
+        "interested in",
+        "honor",
+        "mask",
+        "living"
+      ],
+      "analysis": "原词表配对：venerate ↔ honor。\nvenerate：崇敬\nhonor：荣誉\n出处：PDF第8页，词表页码5，第10组。\n本题用于记忆词表配对；多义词的其他含义不一定相同。",
+      "answer": 2
+    },
+    {
+      "id": "bb202603_p05_r11",
+      "content": "【词表第05页·第11组】与 exhaustive 配对的词或短语是？",
+      "options": [
+        "patent",
+        "remedy",
+        "comprehensive",
+        "inaccessible to"
+      ],
+      "analysis": "原词表配对：exhaustive ↔ comprehensive。\nexhaustive：详尽的; 彻底的; 全面的\ncomprehensive：综合的; 全面的\n出处：PDF第8页，词表页码5，第11组。\n本题用于记忆词表配对；多义词的其他含义不一定相同。",
+      "answer": 3
+    },
+    {
+      "id": "bb202603_p05_r12",
+      "content": "【词表第05页·第12组】与 laconic 配对的词或短语是？",
+      "options": [
+        "defy",
+        "taciturn",
+        "timorous",
+        "questionable"
+      ],
+      "analysis": "原词表配对：laconic ↔ taciturn。\nlaconic：简洁的; 话少的\ntaciturn：沉默寡言的\n出处：PDF第8页，词表页码5，第12组。\n本题用于记忆词表配对；多义词的其他含义不一定相同。",
+      "answer": 2
+    },
+    {
+      "id": "bb202603_p05_r13",
+      "content": "【词表第05页·第13组】与 hail 配对的词或短语是？",
+      "options": [
+        "extensive",
+        "privileged",
+        "acclaim",
+        "recant"
+      ],
+      "analysis": "原词表配对：hail ↔ acclaim。\nhail：向...欢呼; 称赞\nacclaim：欢呼; 赞扬\n出处：PDF第8页，词表页码5，第13组。\n本题用于记忆词表配对；多义词的其他含义不一定相同。",
+      "answer": 3
+    },
+    {
+      "id": "bb202603_p05_r14",
+      "content": "【词表第05页·第14组】与 tactless 配对的词或短语是？",
+      "options": [
+        "impolitic",
+        "circuitous",
+        "hamper",
+        "bereft of"
+      ],
+      "analysis": "原词表配对：tactless ↔ impolitic。\ntactless：不得体的; 不妥当的; 不机智的\nimpolitic：不明智的\n出处：PDF第8页，词表页码5，第14组。\n本题用于记忆词表配对；多义词的其他含义不一定相同。",
+      "answer": 1
+    },
+    {
+      "id": "bb202603_p05_r15",
+      "content": "【词表第05页·第15组】与 eliminate 配对的词或短语是？",
+      "options": [
+        "put to rest",
+        "winning",
+        "supplant",
+        "minutiae"
+      ],
+      "analysis": "原词表配对：eliminate ↔ put to rest。\neliminate：消除; 淘汰\nput to rest：解决; 结束\n出处：PDF第8页，词表页码5，第15组。\n本题用于记忆词表配对；多义词的其他含义不一定相同。",
+      "answer": 1
+    },
+    {
+      "id": "bb202603_p05_r16",
+      "content": "【词表第05页·第16组】与 demand 配对的词或短语是？",
+      "options": [
+        "skeletal",
+        "pernicious",
+        "paragon",
+        "exact"
+      ],
+      "analysis": "原词表配对：demand ↔ exact。\ndemand：需求\nexact：确切的; 精确的\n出处：PDF第8页，词表页码5，第16组。\n本题用于记忆词表配对；多义词的其他含义不一定相同。",
+      "answer": 4
+    },
+    {
+      "id": "bb202603_p05_r17",
+      "content": "【词表第05页·第17组】与 controversial 配对的词或短语是？",
+      "options": [
+        "exaggeration",
+        "unrelated",
+        "distinct",
+        "provocative"
+      ],
+      "analysis": "原词表配对：controversial ↔ provocative。\ncontroversial：有争议的; 引起争议的; 引起争论的\nprovocative：煽动性的\n出处：PDF第8页，词表页码5，第17组。\n本题用于记忆词表配对；多义词的其他含义不一定相同。",
+      "answer": 4
+    },
+    {
+      "id": "bb202603_p05_r18",
+      "content": "【词表第05页·第18组】与 eclipse 配对的词或短语是？",
+      "options": [
+        "spare",
+        "outdo",
+        "mitigate",
+        "qualification"
+      ],
+      "analysis": "原词表配对：eclipse ↔ outdo。\neclipse：蚀; 遮蔽; 使相形见绌; 掩盖;使...黯然失色; 日食\noutdo：超过; 胜过\n出处：PDF第8页，词表页码5，第18组。\n本题用于记忆词表配对；多义词的其他含义不一定相同。",
+      "answer": 2
+    },
+    {
+      "id": "bb202603_p05_r19",
+      "content": "【词表第05页·第19组】与 unconstrained 配对的词或短语是？",
+      "options": [
+        "cosmopolitanism",
+        "disallow",
+        "colossal",
+        "free"
+      ],
+      "analysis": "原词表配对：unconstrained ↔ free。\nunconstrained：不受限制的; 自由自在\nfree：自由的; 免费\n出处：PDF第8页，词表页码5，第19组。\n本题用于记忆词表配对；多义词的其他含义不一定相同。",
+      "answer": 4
+    },
+    {
+      "id": "bb202603_p05_r20",
+      "content": "【词表第05页·第20组】与 approbation 配对的词或短语是？",
+      "options": [
+        "adulation",
+        "lambaste",
+        "gloomy",
+        "restorative"
+      ],
+      "analysis": "原词表配对：approbation ↔ adulation。\napprobation：赞誉; 赞扬; 批准; 赞同; 称赞;认可\nadulation：吹捧; 称赞; 崇拜; 奉承\n出处：PDF第8页，词表页码5，第20组。\n本题用于记忆词表配对；多义词的其他含义不一定相同。",
+      "answer": 1
+    },
+    {
+      "id": "bb202603_p05_r21",
+      "content": "【词表第05页·第21组】与 opprobrium 配对的词或短语是？",
+      "options": [
+        "garrulous",
+        "privileged",
+        "overstate",
+        "disdain"
+      ],
+      "analysis": "原词表配对：opprobrium ↔ disdain。\nopprobrium：众人的责骂; 公开谴责\ndisdain：蔑视; 鄙视; 轻蔑\n出处：PDF第8页，词表页码5，第21组。\n本题用于记忆词表配对；多义词的其他含义不一定相同。",
+      "answer": 4
+    },
+    {
+      "id": "bb202603_p05_r22",
+      "content": "【词表第05页·第22组】与 panacea 配对的词或短语是？",
+      "options": [
+        "dismiss",
+        "remedy",
+        "striking",
+        "unmistakable"
+      ],
+      "analysis": "原词表配对：panacea ↔ remedy。\npanacea：万灵药; 灵丹妙药\nremedy：治疗; 补救\n出处：PDF第8页，词表页码5，第22组。\n本题用于记忆词表配对；多义词的其他含义不一定相同。",
+      "answer": 2
+    },
+    {
+      "id": "bb202603_p05_r23",
+      "content": "【词表第05页·第23组】与 contingent 配对的词或短语是？",
+      "options": [
+        "deride",
+        "circumstantial",
+        "soberly",
+        "ambiguous"
+      ],
+      "analysis": "原词表配对：contingent ↔ circumstantial。\ncontingent：依情况而定的; 取决于\ncircumstantial：间接的; 按情况推测的; 视情况而定的; 具体的\n出处：PDF第8页，词表页码5，第23组。\n本题用于记忆词表配对；多义词的其他含义不一定相同。",
+      "answer": 2
+    },
+    {
+      "id": "bb202603_p05_r24",
+      "content": "【词表第05页·第24组】与 spurious 配对的词或短语是？",
+      "options": [
+        "unsustainable",
+        "transitory",
+        "specious",
+        "intelligible"
+      ],
+      "analysis": "原词表配对：spurious ↔ specious。\nspurious：虚假的; 虚构的; 伪造的\nspecious：似是而非的; 貌似有理的; 伪造的; 华而不实的\n出处：PDF第8页，词表页码5，第24组。\n本题用于记忆词表配对；多义词的其他含义不一定相同。",
+      "answer": 3
+    },
+    {
+      "id": "bb202603_p05_r25",
+      "content": "【词表第05页·第25组】与 short-lived 配对的词或短语是？",
+      "options": [
+        "ephemeral",
+        "unimpeachable",
+        "endemic",
+        "insurmountable for"
+      ],
+      "analysis": "原词表配对：short-lived ↔ ephemeral。\nshort-lived：短命的; 短暂的\nephemeral：短暂的; 瞬息的\n出处：PDF第8页，词表页码5，第25组。\n本题用于记忆词表配对；多义词的其他含义不一定相同。",
+      "answer": 1
+    },
+    {
+      "id": "bb202603_p05_r26",
+      "content": "【词表第05页·第26组】与 naïve 配对的词或短语是？",
+      "options": [
+        "insightful",
+        "impartial",
+        "rebuke",
+        "unsophisticated"
+      ],
+      "analysis": "原词表配对：naïve ↔ unsophisticated。\nnaïve：天真的; 天真无邪的\nunsophisticated：不复杂的; 朴素的; 不老练的\n出处：PDF第8页，词表页码5，第26组。\n本题用于记忆词表配对；多义词的其他含义不一定相同。",
+      "answer": 4
+    },
+    {
+      "id": "bb202603_p05_r27",
+      "content": "【词表第05页·第27组】与 solidarity 配对的词或短语是？",
+      "options": [
+        "confound",
+        "adept at",
+        "camaraderie",
+        "fusion"
+      ],
+      "analysis": "原词表配对：solidarity ↔ camaraderie。\nsolidarity：团结\ncamaraderie：同志情谊; 友情\n出处：PDF第8页，词表页码5，第27组。\n本题用于记忆词表配对；多义词的其他含义不一定相同。",
+      "answer": 3
+    },
+    {
+      "id": "bb202603_p05_r28",
+      "content": "【词表第05页·第28组】与 obtrusive 配对的词或短语是？",
+      "options": [
+        "conspicuous",
+        "imprecise",
+        "haphazard",
+        "paradox"
+      ],
+      "analysis": "原词表配对：obtrusive ↔ conspicuous。\nobtrusive：显眼的; 突兀的\nconspicuous：显眼的; 显著的; 引人注目的;明显的\n出处：PDF第8页，词表页码5，第28组。\n本题用于记忆词表配对；多义词的其他含义不一定相同。",
+      "answer": 1
+    },
+    {
+      "id": "bb202603_p05_r29",
+      "content": "【词表第05页·第29组】与 secure 配对的词或短语是？",
+      "options": [
+        "confounded",
+        "platitude",
+        "soothe",
+        "earn"
+      ],
+      "analysis": "原词表配对：secure ↔ earn。\nsecure：获得; 安全的; 保证\nearn：获得; 赚得; 取得\n出处：PDF第8页，词表页码5，第29组。\n本题用于记忆词表配对；多义词的其他含义不一定相同。",
+      "answer": 4
+    },
+    {
+      "id": "bb202603_p05_r30",
+      "content": "【词表第05页·第30组】与 origin 配对的词或短语是？",
+      "options": [
+        "stifle",
+        "discernment",
+        "provenance",
+        "ubiquitous"
+      ],
+      "analysis": "原词表配对：origin ↔ provenance。\norigin：原点; 起源; 来源\nprovenance：来源; 出处; 起源\n出处：PDF第8页，词表页码5，第30组。\n本题用于记忆词表配对；多义词的其他含义不一定相同。",
+      "answer": 3
+    }
+  ]
+}

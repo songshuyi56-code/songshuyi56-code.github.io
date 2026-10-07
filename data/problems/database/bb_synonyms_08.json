@@ -1,0 +1,367 @@
+{
+  "alias": "BB同义词·第08页（30题）",
+  "description": "对应原PDF第11页，词表页码8。保留30组原配对及释义。",
+  "star": 5,
+  "problems": [
+    {
+      "id": "bb202603_p08_r01",
+      "content": "【词表第08页·第01组】与 comparable 配对的词或短语是？",
+      "options": [
+        "fusty",
+        "plethora",
+        "analogous",
+        "unstable"
+      ],
+      "analysis": "原词表配对：comparable ↔ analogous。\ncomparable：可比; 类似的; 可比较的\nanalogous：类似的; 相似的\n出处：PDF第11页，词表页码8，第1组。\n本题用于记忆词表配对；多义词的其他含义不一定相同。",
+      "answer": 3
+    },
+    {
+      "id": "bb202603_p08_r02",
+      "content": "【词表第08页·第02组】与 elude 配对的词或短语是？",
+      "options": [
+        "puzzle",
+        "tribute",
+        "indictment",
+        "buffered against"
+      ],
+      "analysis": "原词表配对：elude ↔ puzzle。\nelude：躲避; 使...不解; 逃避\npuzzle：困惑; 谜; 难题\n出处：PDF第11页，词表页码8，第2组。\n本题用于记忆词表配对；多义词的其他含义不一定相同。",
+      "answer": 1
+    },
+    {
+      "id": "bb202603_p08_r03",
+      "content": "【词表第08页·第03组】与 compelling 配对的词或短语是？",
+      "options": [
+        "interesting",
+        "disparity",
+        "hybridity",
+        "martinet"
+      ],
+      "analysis": "原词表配对：compelling ↔ interesting。\ncompelling：引人注目的; 令人信服的\ninteresting：有趣的\n出处：PDF第11页，词表页码8，第3组。\n本题用于记忆词表配对；多义词的其他含义不一定相同。",
+      "answer": 1
+    },
+    {
+      "id": "bb202603_p08_r04",
+      "content": "【词表第08页·第04组】与 beget 配对的词或短语是？",
+      "options": [
+        "hitch",
+        "advocate of",
+        "create",
+        "exclude"
+      ],
+      "analysis": "原词表配对：beget ↔ create。\nbeget：产生; 导致\ncreate：创造; 创建\n出处：PDF第11页，词表页码8，第4组。\n本题用于记忆词表配对；多义词的其他含义不一定相同。",
+      "answer": 3
+    },
+    {
+      "id": "bb202603_p08_r05",
+      "content": "【词表第08页·第05组】与 palatable 配对的词或短语是？",
+      "options": [
+        "source",
+        "displace",
+        "characteristic",
+        "appetizing"
+      ],
+      "analysis": "原词表配对：palatable ↔ appetizing。\npalatable：可口的; 可接受的; 合意的\nappetizing：可口的; 开胃的; 诱人的\n出处：PDF第11页，词表页码8，第5组。\n本题用于记忆词表配对；多义词的其他含义不一定相同。",
+      "answer": 4
+    },
+    {
+      "id": "bb202603_p08_r06",
+      "content": "【词表第08页·第06组】与 sober 配对的词或短语是？",
+      "options": [
+        "staid",
+        "awkwardness",
+        "nascent",
+        "augmentation"
+      ],
+      "analysis": "原词表配对：sober ↔ staid。\nsober：冷静的; 持重的; 清醒的; 庄重的\nstaid：古板的; 一本正经的; 稳重的\n出处：PDF第11页，词表页码8，第6组。\n本题用于记忆词表配对；多义词的其他含义不一定相同。",
+      "answer": 1
+    },
+    {
+      "id": "bb202603_p08_r07",
+      "content": "【词表第08页·第07组】与 benign 配对的词或短语是？",
+      "options": [
+        "praiseworthy",
+        "innocuous",
+        "abjection",
+        "familiar"
+      ],
+      "analysis": "原词表配对：benign ↔ innocuous。\nbenign：良性的; 温和的\ninnocuous：无害的\n出处：PDF第11页，词表页码8，第7组。\n本题用于记忆词表配对；多义词的其他含义不一定相同。",
+      "answer": 2
+    },
+    {
+      "id": "bb202603_p08_r08",
+      "content": "【词表第08页·第08组】与 disapprobation 配对的词或短语是？",
+      "options": [
+        "authoritative",
+        "augment",
+        "censure",
+        "recalcitrant"
+      ],
+      "analysis": "原词表配对：disapprobation ↔ censure。\ndisapprobation：谴责; 不赞成\ncensure：谴责\n出处：PDF第11页，词表页码8，第8组。\n本题用于记忆词表配对；多义词的其他含义不一定相同。",
+      "answer": 3
+    },
+    {
+      "id": "bb202603_p08_r09",
+      "content": "【词表第08页·第09组】与 attenuate 配对的词或短语是？",
+      "options": [
+        "dissipate",
+        "slanted",
+        "penury",
+        "omnipresent"
+      ],
+      "analysis": "原词表配对：attenuate ↔ dissipate。\nattenuate：减弱; 减弱的\ndissipate：消散; 散失\n出处：PDF第11页，词表页码8，第9组。\n本题用于记忆词表配对；多义词的其他含义不一定相同。",
+      "answer": 1
+    },
+    {
+      "id": "bb202603_p08_r10",
+      "content": "【词表第08页·第10组】与 confound 配对的词或短语是？",
+      "options": [
+        "trite",
+        "resist",
+        "mercurial",
+        "opportune"
+      ],
+      "analysis": "原词表配对：confound ↔ resist。\nconfound：混淆; 挫败; 证明...有错; 使困惑\nresist：抵抗; 反抗; 阻挡; 回击\n出处：PDF第11页，词表页码8，第10组。\n本题用于记忆词表配对；多义词的其他含义不一定相同。",
+      "answer": 2
+    },
+    {
+      "id": "bb202603_p08_r11",
+      "content": "【词表第08页·第11组】与 intemperate 配对的词或短语是？",
+      "options": [
+        "unequal to",
+        "excessive",
+        "strong",
+        "animate"
+      ],
+      "analysis": "原词表配对：intemperate ↔ excessive。\nintemperate：无节制的\nexcessive：过多的; 过度的; 过量的; 过分的\n出处：PDF第11页，词表页码8，第11组。\n本题用于记忆词表配对；多义词的其他含义不一定相同。",
+      "answer": 2
+    },
+    {
+      "id": "bb202603_p08_r12",
+      "content": "【词表第08页·第12组】与 intuitive 配对的词或短语是？",
+      "options": [
+        "straightforward",
+        "generic",
+        "requiem",
+        "abundant"
+      ],
+      "analysis": "原词表配对：intuitive ↔ straightforward。\nintuitive：直觉的\nstraightforward：直接的; 坦率的\n出处：PDF第11页，词表页码8，第12组。\n本题用于记忆词表配对；多义词的其他含义不一定相同。",
+      "answer": 1
+    },
+    {
+      "id": "bb202603_p08_r13",
+      "content": "【词表第08页·第13组】与 counterfeit 配对的词或短语是？",
+      "options": [
+        "waning",
+        "spurious",
+        "omnipresent",
+        "elision"
+      ],
+      "analysis": "原词表配对：counterfeit ↔ spurious。\ncounterfeit：伪造的; 仿冒品; 伪造品\nspurious：虚假的; 虚构的; 伪造的\n出处：PDF第11页，词表页码8，第13组。\n本题用于记忆词表配对；多义词的其他含义不一定相同。",
+      "answer": 2
+    },
+    {
+      "id": "bb202603_p08_r14",
+      "content": "【词表第08页·第14组】与 versatile 配对的词或短语是？",
+      "options": [
+        "favored",
+        "utilize",
+        "protean",
+        "limit"
+      ],
+      "analysis": "原词表配对：versatile ↔ protean。\nversatile：多才多艺的; 多面手的; 多功能的; 多用途的\nprotean：千变万化的; 万能的\n出处：PDF第11页，词表页码8，第14组。\n本题用于记忆词表配对；多义词的其他含义不一定相同。",
+      "answer": 3
+    },
+    {
+      "id": "bb202603_p08_r15",
+      "content": "【词表第08页·第15组】与 indigence 配对的词或短语是？",
+      "options": [
+        "comprehend",
+        "irresistible",
+        "penury",
+        "calm"
+      ],
+      "analysis": "原词表配对：indigence ↔ penury。\nindigence：贫困; 贫穷\npenury：贫困; 贫穷; 吝啬\n出处：PDF第11页，词表页码8，第15组。\n本题用于记忆词表配对；多义词的其他含义不一定相同。",
+      "answer": 3
+    },
+    {
+      "id": "bb202603_p08_r16",
+      "content": "【词表第08页·第16组】与 unrelated 配对的词或短语是？",
+      "options": [
+        "benevolent",
+        "prefigure",
+        "indirect",
+        "separate"
+      ],
+      "analysis": "原词表配对：unrelated ↔ separate。\nunrelated：无关的\nseparate：不相关的; 分开\n出处：PDF第11页，词表页码8，第16组。\n本题用于记忆词表配对；多义词的其他含义不一定相同。",
+      "answer": 4
+    },
+    {
+      "id": "bb202603_p08_r17",
+      "content": "【词表第08页·第17组】与 asymmetrically 配对的词或短语是？",
+      "options": [
+        "perfection",
+        "unevenly",
+        "evident",
+        "shun"
+      ],
+      "analysis": "原词表配对：asymmetrically ↔ unevenly。\nasymmetrically：不对称地\nunevenly：不均匀地\n出处：PDF第11页，词表页码8，第17组。\n本题用于记忆词表配对；多义词的其他含义不一定相同。",
+      "answer": 2
+    },
+    {
+      "id": "bb202603_p08_r18",
+      "content": "【词表第08页·第18组】与 sullen 配对的词或短语是？",
+      "options": [
+        "careful",
+        "surly",
+        "reject",
+        "timely"
+      ],
+      "analysis": "原词表配对：sullen ↔ surly。\nsullen：板着脸的\nsurly：阴郁的\n出处：PDF第11页，词表页码8，第18组。\n本题用于记忆词表配对；多义词的其他含义不一定相同。",
+      "answer": 2
+    },
+    {
+      "id": "bb202603_p08_r19",
+      "content": "【词表第08页·第19组】与 predominantly 配对的词或短语是？",
+      "options": [
+        "pristine",
+        "ignoble",
+        "unwarranted",
+        "particularly"
+      ],
+      "analysis": "原词表配对：predominantly ↔ particularly。\npredominantly：主要的；占主导地位的\nparticularly：特别地; 尤其\n出处：PDF第11页，词表页码8，第19组。\n本题用于记忆词表配对；多义词的其他含义不一定相同。",
+      "answer": 4
+    },
+    {
+      "id": "bb202603_p08_r20",
+      "content": "【词表第08页·第20组】与 perplexing 配对的词或短语是？",
+      "options": [
+        "aberration",
+        "baffling",
+        "dull",
+        "abundance"
+      ],
+      "analysis": "原词表配对：perplexing ↔ baffling。\nperplexing：令人费解的; 令人困惑的\nbaffling：令人困惑的\n出处：PDF第11页，词表页码8，第20组。\n本题用于记忆词表配对；多义词的其他含义不一定相同。",
+      "answer": 2
+    },
+    {
+      "id": "bb202603_p08_r21",
+      "content": "【词表第08页·第21组】与 hidebound 配对的词或短语是？",
+      "options": [
+        "perennial",
+        "illiberal",
+        "galvanize",
+        "sullen"
+      ],
+      "analysis": "原词表配对：hidebound ↔ illiberal。\nhidebound：守旧的; 死板的\nilliberal：不自由的; 不开明的; 狭隘的\n出处：PDF第11页，词表页码8，第21组。\n本题用于记忆词表配对；多义词的其他含义不一定相同。",
+      "answer": 2
+    },
+    {
+      "id": "bb202603_p08_r22",
+      "content": "【词表第08页·第22组】与 competing 配对的词或短语是？",
+      "options": [
+        "rebuke",
+        "maladroitness in",
+        "contending",
+        "divergent"
+      ],
+      "analysis": "原词表配对：competing ↔ contending。\ncompeting：竞相的; 竞争的\ncontending：竞争的; 争论的\n出处：PDF第11页，词表页码8，第22组。\n本题用于记忆词表配对；多义词的其他含义不一定相同。",
+      "answer": 3
+    },
+    {
+      "id": "bb202603_p08_r23",
+      "content": "【词表第08页·第23组】与 prudent 配对的词或短语是？",
+      "options": [
+        "restorative",
+        "delighted in",
+        "provident",
+        "perennial"
+      ],
+      "analysis": "原词表配对：prudent ↔ provident。\nprudent：谨慎的; 顾虑周到的; 精明的;审慎的\nprovident：有远见的; 深谋远虑的; 节俭的\n出处：PDF第11页，词表页码8，第23组。\n本题用于记忆词表配对；多义词的其他含义不一定相同。",
+      "answer": 3
+    },
+    {
+      "id": "bb202603_p08_r24",
+      "content": "【词表第08页·第24组】与 somnolence 配对的词或短语是？",
+      "options": [
+        "invigorating",
+        "contrite",
+        "lethargy",
+        "simpleminded"
+      ],
+      "analysis": "原词表配对：somnolence ↔ lethargy。\nsomnolence：昏昏欲睡; 瞌睡\nlethargy：昏睡; 懒散; 倦怠; 无精打采\n出处：PDF第11页，词表页码8，第24组。\n本题用于记忆词表配对；多义词的其他含义不一定相同。",
+      "answer": 3
+    },
+    {
+      "id": "bb202603_p08_r25",
+      "content": "【词表第08页·第25组】与 insulated from 配对的词或短语是？",
+      "options": [
+        "buffered against",
+        "integrated",
+        "emancipatory",
+        "simplistic"
+      ],
+      "analysis": "原词表配对：insulated from ↔ buffered against。\ninsulated from：隔离于\nbuffered against：对...有缓冲作用\n出处：PDF第11页，词表页码8，第25组。\n本题用于记忆词表配对；多义词的其他含义不一定相同。",
+      "answer": 1
+    },
+    {
+      "id": "bb202603_p08_r26",
+      "content": "【词表第08页·第26组】与 inconspicuous 配对的词或短语是？",
+      "options": [
+        "discreet",
+        "enigmatic",
+        "noisome",
+        "break from"
+      ],
+      "analysis": "原词表配对：inconspicuous ↔ discreet。\ninconspicuous：不引人注目的; 不显眼的; 不引人注意的\ndiscreet：不显眼的; 谨慎的; 小心的\n出处：PDF第11页，词表页码8，第26组。\n本题用于记忆词表配对；多义词的其他含义不一定相同。",
+      "answer": 1
+    },
+    {
+      "id": "bb202603_p08_r27",
+      "content": "【词表第08页·第27组】与 altruism 配对的词或短语是？",
+      "options": [
+        "modesty",
+        "superfluous",
+        "benevolence",
+        "fiction"
+      ],
+      "analysis": "原词表配对：altruism ↔ benevolence。\naltruism：利他主义; 爱他人\nbenevolence：善行; 仁慈; 善举; 善意\n出处：PDF第11页，词表页码8，第27组。\n本题用于记忆词表配对；多义词的其他含义不一定相同。",
+      "answer": 3
+    },
+    {
+      "id": "bb202603_p08_r28",
+      "content": "【词表第08页·第28组】与 convey 配对的词或短语是？",
+      "options": [
+        "prefigure",
+        "diffident",
+        "prescient",
+        "impart"
+      ],
+      "analysis": "原词表配对：convey ↔ impart。\nconvey：传达; 传递\nimpart：传达; 传授\n出处：PDF第11页，词表页码8，第28组。\n本题用于记忆词表配对；多义词的其他含义不一定相同。",
+      "answer": 4
+    },
+    {
+      "id": "bb202603_p08_r29",
+      "content": "【词表第08页·第29组】与 utilitarian 配对的词或短语是？",
+      "options": [
+        "glut",
+        "proliferate",
+        "condemn",
+        "pragmatic"
+      ],
+      "analysis": "原词表配对：utilitarian ↔ pragmatic。\nutilitarian：实用主义; 实用的; 功利的\npragmatic：实用的; 务实的; 实用主义的\n出处：PDF第11页，词表页码8，第29组。\n本题用于记忆词表配对；多义词的其他含义不一定相同。",
+      "answer": 4
+    },
+    {
+      "id": "bb202603_p08_r30",
+      "content": "【词表第08页·第30组】与 imprecise 配对的词或短语是？",
+      "options": [
+        "vigorous",
+        "inexact",
+        "lugubrious",
+        "sound"
+      ],
+      "analysis": "原词表配对：imprecise ↔ inexact。\nimprecise：不精确的; 不准确的\ninexact：不精确的\n出处：PDF第11页，词表页码8，第30组。\n本题用于记忆词表配对；多义词的其他含义不一定相同。",
+      "answer": 2
+    }
+  ]
+}

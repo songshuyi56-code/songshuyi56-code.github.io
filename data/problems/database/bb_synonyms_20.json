@@ -1,0 +1,367 @@
+{
+  "alias": "BB同义词·第20页（30题）",
+  "description": "对应原PDF第23页，词表页码20。保留30组原配对及释义。",
+  "star": 5,
+  "problems": [
+    {
+      "id": "bb202603_p20_r01",
+      "content": "【词表第20页·第01组】与 trivial 配对的词或短语是？",
+      "options": [
+        "marshal",
+        "discordance",
+        "insignificant",
+        "ineptitude at"
+      ],
+      "analysis": "原词表配对：trivial ↔ insignificant。\ntrivial：琐碎的; 不重要的\ninsignificant：微不足道的; 不重要的; 无关紧要的\n出处：PDF第23页，词表页码20，第1组。\n本题用于记忆词表配对；多义词的其他含义不一定相同。",
+      "answer": 3
+    },
+    {
+      "id": "bb202603_p20_r02",
+      "content": "【词表第20页·第02组】与 superficial 配对的词或短语是？",
+      "options": [
+        "combine",
+        "complicated",
+        "sketchy",
+        "dissemblance"
+      ],
+      "analysis": "原词表配对：superficial ↔ sketchy。\nsuperficial：粗略的; 肤浅的; 表面的\nsketchy：粗略的; 不完整的; 素描的\n出处：PDF第23页，词表页码20，第2组。\n本题用于记忆词表配对；多义词的其他含义不一定相同。",
+      "answer": 3
+    },
+    {
+      "id": "bb202603_p20_r03",
+      "content": "【词表第20页·第03组】与 corroborate 配对的词或短语是？",
+      "options": [
+        "puzzle",
+        "confirm",
+        "acquiescence to",
+        "unqualified"
+      ],
+      "analysis": "原词表配对：corroborate ↔ confirm。\ncorroborate：证实; 支持\nconfirm：确认; 支持; 证实\n出处：PDF第23页，词表页码20，第3组。\n本题用于记忆词表配对；多义词的其他含义不一定相同。",
+      "answer": 2
+    },
+    {
+      "id": "bb202603_p20_r04",
+      "content": "【词表第20页·第04组】与 inimical 配对的词或短语是？",
+      "options": [
+        "approbation",
+        "disciplinarian",
+        "deleterious",
+        "humility"
+      ],
+      "analysis": "原词表配对：inimical ↔ deleterious。\ninimical：有害的; 敌意的\ndeleterious：有害的\n出处：PDF第23页，词表页码20，第4组。\n本题用于记忆词表配对；多义词的其他含义不一定相同。",
+      "answer": 3
+    },
+    {
+      "id": "bb202603_p20_r05",
+      "content": "【词表第20页·第05组】与 acerbic 配对的词或短语是？",
+      "options": [
+        "advantageous",
+        "vague",
+        "fraud",
+        "harsh"
+      ],
+      "analysis": "原词表配对：acerbic ↔ harsh。\nacerbic：尖刻的; 尖酸的; 尖酸刻薄的\nharsh：残酷的; 严厉的; 刺耳的\n出处：PDF第23页，词表页码20，第5组。\n本题用于记忆词表配对；多义词的其他含义不一定相同。",
+      "answer": 4
+    },
+    {
+      "id": "bb202603_p20_r06",
+      "content": "【词表第20页·第06组】与 lambaste 配对的词或短语是？",
+      "options": [
+        "static",
+        "deride",
+        "naïve",
+        "buoy"
+      ],
+      "analysis": "原词表配对：lambaste ↔ deride。\nlambaste：严厉斥责; 痛斥\nderide：嘲笑; 揶揄; 嘲弄\n出处：PDF第23页，词表页码20，第6组。\n本题用于记忆词表配对；多义词的其他含义不一定相同。",
+      "answer": 2
+    },
+    {
+      "id": "bb202603_p20_r07",
+      "content": "【词表第20页·第07组】与 inertia 配对的词或短语是？",
+      "options": [
+        "maintain",
+        "vigorous",
+        "stasis",
+        "respite"
+      ],
+      "analysis": "原词表配对：inertia ↔ stasis。\ninertia：惯性; 惰性; 不活动\nstasis：停滞状态; 平衡状态\n出处：PDF第23页，词表页码20，第7组。\n本题用于记忆词表配对；多义词的其他含义不一定相同。",
+      "answer": 3
+    },
+    {
+      "id": "bb202603_p20_r08",
+      "content": "【词表第20页·第08组】与 simpleminded 配对的词或短语是？",
+      "options": [
+        "unsophisticated",
+        "canned",
+        "abate",
+        "contrivance"
+      ],
+      "analysis": "原词表配对：simpleminded ↔ unsophisticated。\nsimpleminded：简单的; 愚蠢的\nunsophisticated：不复杂的; 朴素的; 不老练的\n出处：PDF第23页，词表页码20，第8组。\n本题用于记忆词表配对；多义词的其他含义不一定相同。",
+      "answer": 1
+    },
+    {
+      "id": "bb202603_p20_r09",
+      "content": "【词表第20页·第09组】与 deferential 配对的词或短语是？",
+      "options": [
+        "amazing",
+        "retrograde",
+        "exasperation",
+        "respectful"
+      ],
+      "analysis": "原词表配对：deferential ↔ respectful。\ndeferential：恭敬的\nrespectful：尊重的; 恭敬的; 尊重\n出处：PDF第23页，词表页码20，第9组。\n本题用于记忆词表配对；多义词的其他含义不一定相同。",
+      "answer": 4
+    },
+    {
+      "id": "bb202603_p20_r10",
+      "content": "【词表第20页·第10组】与 learned 配对的词或短语是？",
+      "options": [
+        "speculation",
+        "evasive",
+        "erudite",
+        "repellent to"
+      ],
+      "analysis": "原词表配对：learned ↔ erudite。\nlearned：有学问的\nerudite：博学的; 有学问的\n出处：PDF第23页，词表页码20，第10组。\n本题用于记忆词表配对；多义词的其他含义不一定相同。",
+      "answer": 3
+    },
+    {
+      "id": "bb202603_p20_r11",
+      "content": "【词表第20页·第11组】与 stymie 配对的词或短语是？",
+      "options": [
+        "somnolent",
+        "heterogeneity",
+        "animate",
+        "confound"
+      ],
+      "analysis": "原词表配对：stymie ↔ confound。\nstymie：阻碍; 妨碍\nconfound：混淆; 挫败; 证明...有错; 使困惑\n出处：PDF第23页，词表页码20，第11组。\n本题用于记忆词表配对；多义词的其他含义不一定相同。",
+      "answer": 4
+    },
+    {
+      "id": "bb202603_p20_r12",
+      "content": "【词表第20页·第12组】与 attributed to 配对的词或短语是？",
+      "options": [
+        "inevitable",
+        "indicator",
+        "explained by",
+        "insignificant"
+      ],
+      "analysis": "原词表配对：attributed to ↔ explained by。\nattributed to：归因于\nexplained by：由...解释\n出处：PDF第23页，词表页码20，第12组。\n本题用于记忆词表配对；多义词的其他含义不一定相同。",
+      "answer": 3
+    },
+    {
+      "id": "bb202603_p20_r13",
+      "content": "【词表第20页·第13组】与 unconventional 配对的词或短语是？",
+      "options": [
+        "diagnose",
+        "swindle",
+        "aggravate",
+        "original"
+      ],
+      "analysis": "原词表配对：unconventional ↔ original。\nunconventional：不传统的; 非传统的\noriginal：原来的; 原始的; 原创的; 独创的\n出处：PDF第23页，词表页码20，第13组。\n本题用于记忆词表配对；多义词的其他含义不一定相同。",
+      "answer": 4
+    },
+    {
+      "id": "bb202603_p20_r14",
+      "content": "【词表第20页·第14组】与 waver 配对的词或短语是？",
+      "options": [
+        "oscillate",
+        "orthodox",
+        "entailed by",
+        "tortuous"
+      ],
+      "analysis": "原词表配对：waver ↔ oscillate。\nwaver：摇摆; 犹豫\noscillate：摇摆\n出处：PDF第23页，词表页码20，第14组。\n本题用于记忆词表配对；多义词的其他含义不一定相同。",
+      "answer": 1
+    },
+    {
+      "id": "bb202603_p20_r15",
+      "content": "【词表第20页·第15组】与 understandable 配对的词或短语是？",
+      "options": [
+        "diversity",
+        "legendary",
+        "static",
+        "transparent"
+      ],
+      "analysis": "原词表配对：understandable ↔ transparent。\nunderstandable：可以理解的; 合情理的\ntransparent：透明的; 易懂的\n出处：PDF第23页，词表页码20，第15组。\n本题用于记忆词表配对；多义词的其他含义不一定相同。",
+      "answer": 4
+    },
+    {
+      "id": "bb202603_p20_r16",
+      "content": "【词表第20页·第16组】与 patent 配对的词或短语是？",
+      "options": [
+        "recant",
+        "languished",
+        "stringent",
+        "evident"
+      ],
+      "analysis": "原词表配对：patent ↔ evident。\npatent：明显的; 专利\nevident：明显的; 显而易见的\n出处：PDF第23页，词表页码20，第16组。\n本题用于记忆词表配对；多义词的其他含义不一定相同。",
+      "answer": 4
+    },
+    {
+      "id": "bb202603_p20_r17",
+      "content": "【词表第20页·第17组】与 remunerative 配对的词或短语是？",
+      "options": [
+        "somnolent",
+        "compression",
+        "lucrative",
+        "replace"
+      ],
+      "analysis": "原词表配对：remunerative ↔ lucrative。\nremunerative：有报酬的; 有利可图的\nlucrative：有利可图的; 赚钱的\n出处：PDF第23页，词表页码20，第17组。\n本题用于记忆词表配对；多义词的其他含义不一定相同。",
+      "answer": 3
+    },
+    {
+      "id": "bb202603_p20_r18",
+      "content": "【词表第20页·第18组】与 reflexive 配对的词或短语是？",
+      "options": [
+        "serviceable",
+        "brazen",
+        "automatic",
+        "foster"
+      ],
+      "analysis": "原词表配对：reflexive ↔ automatic。\nreflexive：反射性的; 条件反射的; 自反的; 反身的\nautomatic：自动的; 不假思索的\n出处：PDF第23页，词表页码20，第18组。\n本题用于记忆词表配对；多义词的其他含义不一定相同。",
+      "answer": 3
+    },
+    {
+      "id": "bb202603_p20_r19",
+      "content": "【词表第20页·第19组】与 exceptional 配对的词或短语是？",
+      "options": [
+        "opportunism",
+        "finer",
+        "rare",
+        "expansion"
+      ],
+      "analysis": "原词表配对：exceptional ↔ rare。\nexceptional：异常的; 非凡的\nrare：稀有的; 罕见的\n出处：PDF第23页，词表页码20，第19组。\n本题用于记忆词表配对；多义词的其他含义不一定相同。",
+      "answer": 3
+    },
+    {
+      "id": "bb202603_p20_r20",
+      "content": "【词表第20页·第20组】与 resolve 配对的词或短语是？",
+      "options": [
+        "determination",
+        "rapacious",
+        "archaic",
+        "fulsome"
+      ],
+      "analysis": "原词表配对：resolve ↔ determination。\nresolve：决心; 解决; 决定\ndetermination：决心; 决定\n出处：PDF第23页，词表页码20，第20组。\n本题用于记忆词表配对；多义词的其他含义不一定相同。",
+      "answer": 1
+    },
+    {
+      "id": "bb202603_p20_r21",
+      "content": "【词表第20页·第21组】与 counterpart 配对的词或短语是？",
+      "options": [
+        "enjoining",
+        "correlative",
+        "prophylactic",
+        "opportunity"
+      ],
+      "analysis": "原词表配对：counterpart ↔ correlative。\ncounterpart：对方; 对应物\ncorrelative：相关的; 互相关联的\n出处：PDF第23页，词表页码20，第21组。\n本题用于记忆词表配对；多义词的其他含义不一定相同。",
+      "answer": 2
+    },
+    {
+      "id": "bb202603_p20_r22",
+      "content": "【词表第20页·第22组】与 unfathomable 配对的词或短语是？",
+      "options": [
+        "clarify",
+        "moderate",
+        "riddle",
+        "inscrutable"
+      ],
+      "analysis": "原词表配对：unfathomable ↔ inscrutable。\nunfathomable：深不可测的; 难以理解的; 不可思议的\ninscrutable：深不可测的; 难以理解的\n出处：PDF第23页，词表页码20，第22组。\n本题用于记忆词表配对；多义词的其他含义不一定相同。",
+      "answer": 4
+    },
+    {
+      "id": "bb202603_p20_r23",
+      "content": "【词表第20页·第23组】与 defraud 配对的词或短语是？",
+      "options": [
+        "darkening",
+        "swindle",
+        "abstruse",
+        "living"
+      ],
+      "analysis": "原词表配对：defraud ↔ swindle。\ndefraud：欺骗; 欺诈\nswindle：骗取; 欺骗\n出处：PDF第23页，词表页码20，第23组。\n本题用于记忆词表配对；多义词的其他含义不一定相同。",
+      "answer": 2
+    },
+    {
+      "id": "bb202603_p20_r24",
+      "content": "【词表第20页·第24组】与 capriciousness 配对的词或短语是？",
+      "options": [
+        "inception",
+        "liminal",
+        "incontrovertible",
+        "volatility"
+      ],
+      "analysis": "原词表配对：capriciousness ↔ volatility。\ncapriciousness：反复无常; 任性; 变幻莫测\nvolatility：易变性; 不稳定性\n出处：PDF第23页，词表页码20，第24组。\n本题用于记忆词表配对；多义词的其他含义不一定相同。",
+      "answer": 4
+    },
+    {
+      "id": "bb202603_p20_r25",
+      "content": "【词表第20页·第25组】与 undergirded by 配对的词或短语是？",
+      "options": [
+        "permeable",
+        "dependent on",
+        "indolence",
+        "equivocal"
+      ],
+      "analysis": "原词表配对：undergirded by ↔ dependent on。\nundergirded by：支撑\ndependent on：依赖于\n出处：PDF第23页，词表页码20，第25组。\n本题用于记忆词表配对；多义词的其他含义不一定相同。",
+      "answer": 2
+    },
+    {
+      "id": "bb202603_p20_r26",
+      "content": "【词表第20页·第26组】与 pervasive 配对的词或短语是？",
+      "options": [
+        "cruelty",
+        "freewheeling",
+        "ubiquitous",
+        "oscillate"
+      ],
+      "analysis": "原词表配对：pervasive ↔ ubiquitous。\npervasive：渗透的; 全面的; 普遍存在的;无处不在的\nubiquitous：无处不在的;普遍存在的\n出处：PDF第23页，词表页码20，第26组。\n本题用于记忆词表配对；多义词的其他含义不一定相同。",
+      "answer": 3
+    },
+    {
+      "id": "bb202603_p20_r27",
+      "content": "【词表第20页·第27组】与 unscrupulous 配对的词或短语是？",
+      "options": [
+        "agreeable",
+        "exaggeration",
+        "relieve",
+        "dishonest"
+      ],
+      "analysis": "原词表配对：unscrupulous ↔ dishonest。\nunscrupulous：无道德原则的; 肆无忌惮的;不择手段的\ndishonest：不诚实的; 不正直的\n出处：PDF第23页，词表页码20，第27组。\n本题用于记忆词表配对；多义词的其他含义不一定相同。",
+      "answer": 4
+    },
+    {
+      "id": "bb202603_p20_r28",
+      "content": "【词表第20页·第28组】与 anathema to 配对的词或短语是？",
+      "options": [
+        "spurious",
+        "inhibit",
+        "characteristic",
+        "repellent to"
+      ],
+      "analysis": "原词表配对：anathema to ↔ repellent to。\nanathema to：对...极其憎恶\nrepellent to：令人反感的\n出处：PDF第23页，词表页码20，第28组。\n本题用于记忆词表配对；多义词的其他含义不一定相同。",
+      "answer": 4
+    },
+    {
+      "id": "bb202603_p20_r29",
+      "content": "【词表第20页·第29组】与 minutiae 配对的词或短语是？",
+      "options": [
+        "sound",
+        "contrite",
+        "thriving",
+        "particulars"
+      ],
+      "analysis": "原词表配对：minutiae ↔ particulars。\nminutiae：细节; 细枝末节\nparticulars：细节; 详细情况\n出处：PDF第23页，词表页码20，第29组。\n本题用于记忆词表配对；多义词的其他含义不一定相同。",
+      "answer": 4
+    },
+    {
+      "id": "bb202603_p20_r30",
+      "content": "【词表第20页·第30组】与 prejudicial 配对的词或短语是？",
+      "options": [
+        "tendentious",
+        "inhibited",
+        "spurring",
+        "discrepancies"
+      ],
+      "analysis": "原词表配对：prejudicial ↔ tendentious。\nprejudicial：带有偏见的; 对不利影响的\ntendentious：有倾向性的; 倾向性的; 有偏见的\n出处：PDF第23页，词表页码20，第30组。\n本题用于记忆词表配对；多义词的其他含义不一定相同。",
+      "answer": 1
+    }
+  ]
+}

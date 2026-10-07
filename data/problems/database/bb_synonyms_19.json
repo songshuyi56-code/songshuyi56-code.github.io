@@ -1,0 +1,367 @@
+{
+  "alias": "BB同义词·第19页（30题）",
+  "description": "对应原PDF第22页，词表页码19。保留30组原配对及释义。",
+  "star": 5,
+  "problems": [
+    {
+      "id": "bb202603_p19_r01",
+      "content": "【词表第19页·第01组】与 essential 配对的词或短语是？",
+      "options": [
+        "indispensable",
+        "dampen",
+        "verbose",
+        "ring true"
+      ],
+      "analysis": "原词表配对：essential ↔ indispensable。\nessential：基本的; 必要的; 重要的; 关键的\nindispensable：不可或缺的; 必须的; 必不可少的\n出处：PDF第22页，词表页码19，第1组。\n本题用于记忆词表配对；多义词的其他含义不一定相同。",
+      "answer": 1
+    },
+    {
+      "id": "bb202603_p19_r02",
+      "content": "【词表第19页·第02组】与 endemic 配对的词或短语是？",
+      "options": [
+        "insufficient",
+        "mockery",
+        "check",
+        "native"
+      ],
+      "analysis": "原词表配对：endemic ↔ native。\nendemic：地方性的; 某地特有的; 常见的; 特有的\nnative：本地的; 原生的; 本土的; 本国的\n出处：PDF第22页，词表页码19，第2组。\n本题用于记忆词表配对；多义词的其他含义不一定相同。",
+      "answer": 4
+    },
+    {
+      "id": "bb202603_p19_r03",
+      "content": "【词表第19页·第03组】与 itinerant 配对的词或短语是？",
+      "options": [
+        "emendation",
+        "doggedness",
+        "static",
+        "peripatetic"
+      ],
+      "analysis": "原词表配对：itinerant ↔ peripatetic。\nitinerant：流动的; 巡回的\nperipatetic：逍遥的; 巡游的; 四处游历的;流动的\n出处：PDF第22页，词表页码19，第3组。\n本题用于记忆词表配对；多义词的其他含义不一定相同。",
+      "answer": 4
+    },
+    {
+      "id": "bb202603_p19_r04",
+      "content": "【词表第19页·第04组】与 buttress 配对的词或短语是？",
+      "options": [
+        "temper",
+        "bolster",
+        "novice",
+        "temporary"
+      ],
+      "analysis": "原词表配对：buttress ↔ bolster。\nbuttress：支持; 支撑\nbolster：支持; 支撑; 加强\n出处：PDF第22页，词表页码19，第4组。\n本题用于记忆词表配对；多义词的其他含义不一定相同。",
+      "answer": 2
+    },
+    {
+      "id": "bb202603_p19_r05",
+      "content": "【词表第19页·第05组】与 respected 配对的词或短语是？",
+      "options": [
+        "living",
+        "venerable",
+        "rejection of",
+        "infamy"
+      ],
+      "analysis": "原词表配对：respected ↔ venerable。\nrespected：受尊敬的\nvenerable：庄严的; 受尊敬的; 值得尊敬的\n出处：PDF第22页，词表页码19，第5组。\n本题用于记忆词表配对；多义词的其他含义不一定相同。",
+      "answer": 2
+    },
+    {
+      "id": "bb202603_p19_r06",
+      "content": "【词表第19页·第06组】与 analogous 配对的词或短语是？",
+      "options": [
+        "retrograde",
+        "comparable",
+        "questionable",
+        "keen"
+      ],
+      "analysis": "原词表配对：analogous ↔ comparable。\nanalogous：类似的; 相似的\ncomparable：可比; 类似的; 可比较的\n出处：PDF第22页，词表页码19，第6组。\n本题用于记忆词表配对；多义词的其他含义不一定相同。",
+      "answer": 2
+    },
+    {
+      "id": "bb202603_p19_r07",
+      "content": "【词表第19页·第07组】与 manifest 配对的词或短语是？",
+      "options": [
+        "surrendered to",
+        "self-evident",
+        "slanted",
+        "eclipse"
+      ],
+      "analysis": "原词表配对：manifest ↔ self-evident。\nmanifest：显然的; 明显的; 显现的; 显而易见的; 表现出\nself-evident：不证自明的; 不言而喻的\n出处：PDF第22页，词表页码19，第7组。\n本题用于记忆词表配对；多义词的其他含义不一定相同。",
+      "answer": 2
+    },
+    {
+      "id": "bb202603_p19_r08",
+      "content": "【词表第19页·第08组】与 antagonistic 配对的词或短语是？",
+      "options": [
+        "rehash",
+        "simplicity",
+        "inimical",
+        "spread"
+      ],
+      "analysis": "原词表配对：antagonistic ↔ inimical。\nantagonistic：敌对的; 对抗性的\ninimical：有害的; 敌意的\n出处：PDF第22页，词表页码19，第8组。\n本题用于记忆词表配对；多义词的其他含义不一定相同。",
+      "answer": 3
+    },
+    {
+      "id": "bb202603_p19_r09",
+      "content": "【词表第19页·第09组】与 emendation 配对的词或短语是？",
+      "options": [
+        "revision",
+        "prodigious",
+        "credulous",
+        "advanced"
+      ],
+      "analysis": "原词表配对：emendation ↔ revision。\nemendation：修订; 校订\nrevision：修订\n出处：PDF第22页，词表页码19，第9组。\n本题用于记忆词表配对；多义词的其他含义不一定相同。",
+      "answer": 1
+    },
+    {
+      "id": "bb202603_p19_r10",
+      "content": "【词表第19页·第10组】与 wayward 配对的词或短语是？",
+      "options": [
+        "replace",
+        "spartan",
+        "errant",
+        "fecund"
+      ],
+      "analysis": "原词表配对：wayward ↔ errant。\nwayward：难以控制的; 任性的; 刚愎自用的\nerrant：犯错误的; 漫游的; 错误的; 偏离正道的\n出处：PDF第22页，词表页码19，第10组。\n本题用于记忆词表配对；多义词的其他含义不一定相同。",
+      "answer": 3
+    },
+    {
+      "id": "bb202603_p19_r11",
+      "content": "【词表第19页·第11组】与 cursory 配对的词或短语是？",
+      "options": [
+        "imperceptible",
+        "perfunctory",
+        "pliable",
+        "indispensable"
+      ],
+      "analysis": "原词表配对：cursory ↔ perfunctory。\ncursory：粗略的; 草率的\nperfunctory：敷衍的; 漫不经心的\n出处：PDF第22页，词表页码19，第11组。\n本题用于记忆词表配对；多义词的其他含义不一定相同。",
+      "answer": 2
+    },
+    {
+      "id": "bb202603_p19_r12",
+      "content": "【词表第19页·第12组】与 polymathic 配对的词或短语是？",
+      "options": [
+        "plausible",
+        "encyclopedic",
+        "lugubrious",
+        "solidarity"
+      ],
+      "analysis": "原词表配对：polymathic ↔ encyclopedic。\npolymathic：博学的; 全面的\nencyclopedic：全面的; 百科全书式的\n出处：PDF第22页，词表页码19，第12组。\n本题用于记忆词表配对；多义词的其他含义不一定相同。",
+      "answer": 2
+    },
+    {
+      "id": "bb202603_p19_r13",
+      "content": "【词表第19页·第13组】与 healthy 配对的词或短语是？",
+      "options": [
+        "authoritative",
+        "novel",
+        "interchangeable",
+        "robust"
+      ],
+      "analysis": "原词表配对：healthy ↔ robust。\nhealthy：健康良好的; 健康的; 健壮的\nrobust：强壮的; 强健的; 强劲的\n出处：PDF第22页，词表页码19，第13组。\n本题用于记忆词表配对；多义词的其他含义不一定相同。",
+      "answer": 4
+    },
+    {
+      "id": "bb202603_p19_r14",
+      "content": "【词表第19页·第14组】与 unexceptional 配对的词或短语是？",
+      "options": [
+        "sketchy",
+        "meticulous",
+        "confound",
+        "nondescript"
+      ],
+      "analysis": "原词表配对：unexceptional ↔ nondescript。\nunexceptional：平庸的; 普通的; 平凡的; 不例外的\nnondescript：不伦不类; 无特征的; 平凡的;不显眼\n出处：PDF第22页，词表页码19，第14组。\n本题用于记忆词表配对；多义词的其他含义不一定相同。",
+      "answer": 4
+    },
+    {
+      "id": "bb202603_p19_r15",
+      "content": "【词表第19页·第15组】与 flummoxed 配对的词或短语是？",
+      "options": [
+        "relentless",
+        "confounded",
+        "barbarity",
+        "illusory"
+      ],
+      "analysis": "原词表配对：flummoxed ↔ confounded。\nflummoxed：困惑的\nconfounded：困扰的; 困惑的; 混乱的\n出处：PDF第22页，词表页码19，第15组。\n本题用于记忆词表配对；多义词的其他含义不一定相同。",
+      "answer": 2
+    },
+    {
+      "id": "bb202603_p19_r16",
+      "content": "【词表第19页·第16组】与 anomalous 配对的词或短语是？",
+      "options": [
+        "false",
+        "permeable",
+        "disciplinarian",
+        "unusual"
+      ],
+      "analysis": "原词表配对：anomalous ↔ unusual。\nanomalous：异常的; 不规则的\nunusual：异常; 不寻常的\n出处：PDF第22页，词表页码19，第16组。\n本题用于记忆词表配对；多义词的其他含义不一定相同。",
+      "answer": 4
+    },
+    {
+      "id": "bb202603_p19_r17",
+      "content": "【词表第19页·第17组】与 dwindling 配对的词或短语是？",
+      "options": [
+        "contracting",
+        "indubitable",
+        "induce",
+        "insalubrious"
+      ],
+      "analysis": "原词表配对：dwindling ↔ contracting。\ndwindling：减少; 逐渐减少的\ncontracting：收缩\n出处：PDF第22页，词表页码19，第17组。\n本题用于记忆词表配对；多义词的其他含义不一定相同。",
+      "answer": 1
+    },
+    {
+      "id": "bb202603_p19_r18",
+      "content": "【词表第19页·第18组】与 meager 配对的词或短语是？",
+      "options": [
+        "paltry",
+        "safeguard",
+        "veracity",
+        "requiem"
+      ],
+      "analysis": "原词表配对：meager ↔ paltry。\nmeager：贫乏的; 不足的; 稀少的; 微薄的\npaltry：微不足道的; 不值一提的;（数量）微小的; 无价值的;\n出处：PDF第22页，词表页码19，第18组。\n本题用于记忆词表配对；多义词的其他含义不一定相同。",
+      "answer": 1
+    },
+    {
+      "id": "bb202603_p19_r19",
+      "content": "【词表第19页·第19组】与 cheerless 配对的词或短语是？",
+      "options": [
+        "gloomy",
+        "exclusive",
+        "absolve",
+        "detachment"
+      ],
+      "analysis": "原词表配对：cheerless ↔ gloomy。\ncheerless：阴郁的; 悲伤的\ngloomy：阴沉; 忧郁的; 阴沉的; 阴暗的\n出处：PDF第22页，词表页码19，第19组。\n本题用于记忆词表配对；多义词的其他含义不一定相同。",
+      "answer": 1
+    },
+    {
+      "id": "bb202603_p19_r20",
+      "content": "【词表第19页·第20组】与 generate 配对的词或短语是？",
+      "options": [
+        "originate",
+        "strip away",
+        "sordid",
+        "preachy"
+      ],
+      "analysis": "原词表配对：generate ↔ originate。\ngenerate：产生; 制造\noriginate：起源\n出处：PDF第22页，词表页码19，第20组。\n本题用于记忆词表配对；多义词的其他含义不一定相同。",
+      "answer": 1
+    },
+    {
+      "id": "bb202603_p19_r21",
+      "content": "【词表第19页·第21组】与 discordance 配对的词或短语是？",
+      "options": [
+        "errant",
+        "dispute",
+        "surly",
+        "contention"
+      ],
+      "analysis": "原词表配对：discordance ↔ contention。\ndiscordance：不和谐; 意见不合; 不一致\ncontention：争论; 争执\n出处：PDF第22页，词表页码19，第21组。\n本题用于记忆词表配对；多义词的其他含义不一定相同。",
+      "answer": 4
+    },
+    {
+      "id": "bb202603_p19_r22",
+      "content": "【词表第19页·第22组】与 evenhandedness 配对的词或短语是？",
+      "options": [
+        "comprehensive",
+        "protocol",
+        "impartiality",
+        "exclusive"
+      ],
+      "analysis": "原词表配对：evenhandedness ↔ impartiality。\nevenhandedness：公正; 公平; 公正性\nimpartiality：公正; 不偏不倚; 无偏见; 公平\n出处：PDF第22页，词表页码19，第22组。\n本题用于记忆词表配对；多义词的其他含义不一定相同。",
+      "answer": 3
+    },
+    {
+      "id": "bb202603_p19_r23",
+      "content": "【词表第19页·第23组】与 sanction 配对的词或短语是？",
+      "options": [
+        "anathema to",
+        "vilify",
+        "relic",
+        "endorse"
+      ],
+      "analysis": "原词表配对：sanction ↔ endorse。\nsanction：制裁; 批准\nendorse：认可; 支持\n出处：PDF第22页，词表页码19，第23组。\n本题用于记忆词表配对；多义词的其他含义不一定相同。",
+      "answer": 4
+    },
+    {
+      "id": "bb202603_p19_r24",
+      "content": "【词表第19页·第24组】与 proscriptive 配对的词或短语是？",
+      "options": [
+        "rancor",
+        "intractable",
+        "exacting",
+        "safeguard"
+      ],
+      "analysis": "原词表配对：proscriptive ↔ exacting。\nproscriptive：禁止性的; 限制的; 规定性的\nexacting：苛求的; 要求严格的; 严格的\n出处：PDF第22页，词表页码19，第24组。\n本题用于记忆词表配对；多义词的其他含义不一定相同。",
+      "answer": 3
+    },
+    {
+      "id": "bb202603_p19_r25",
+      "content": "【词表第19页·第25组】与 infer 配对的词或短语是？",
+      "options": [
+        "recoup",
+        "pacific",
+        "surmise",
+        "lambaste"
+      ],
+      "analysis": "原词表配对：infer ↔ surmise。\ninfer：推断; 推论出\nsurmise：猜测\n出处：PDF第22页，词表页码19，第25组。\n本题用于记忆词表配对；多义词的其他含义不一定相同。",
+      "answer": 3
+    },
+    {
+      "id": "bb202603_p19_r26",
+      "content": "【词表第19页·第26组】与 circuitous 配对的词或短语是？",
+      "options": [
+        "pugnacious",
+        "indirect",
+        "realism",
+        "opacity"
+      ],
+      "analysis": "原词表配对：circuitous ↔ indirect。\ncircuitous：迂回的; 绕圈子的\nindirect：不直接的; 间接的; 迂回的\n出处：PDF第22页，词表页码19，第26组。\n本题用于记忆词表配对；多义词的其他含义不一定相同。",
+      "answer": 2
+    },
+    {
+      "id": "bb202603_p19_r27",
+      "content": "【词表第19页·第27组】与 exacerbate 配对的词或短语是？",
+      "options": [
+        "violate",
+        "complementary",
+        "aggravate",
+        "violation"
+      ],
+      "analysis": "原词表配对：exacerbate ↔ aggravate。\nexacerbate：恶化; 加剧症状\naggravate：使恶化; 加重; 恶化\n出处：PDF第22页，词表页码19，第27组。\n本题用于记忆词表配对；多义词的其他含义不一定相同。",
+      "answer": 3
+    },
+    {
+      "id": "bb202603_p19_r28",
+      "content": "【词表第19页·第28组】与 painstakingly 配对的词或短语是？",
+      "options": [
+        "gap between",
+        "meticulously",
+        "ongoing",
+        "caterwaul"
+      ],
+      "analysis": "原词表配对：painstakingly ↔ meticulously。\npainstakingly：精心地; 艰苦费心地; 煞费苦心地\nmeticulously：一丝不苟地\n出处：PDF第22页，词表页码19，第28组。\n本题用于记忆词表配对；多义词的其他含义不一定相同。",
+      "answer": 2
+    },
+    {
+      "id": "bb202603_p19_r29",
+      "content": "【词表第19页·第29组】与 objective 配对的词或短语是？",
+      "options": [
+        "complementary",
+        "extensive",
+        "discretion",
+        "impartial"
+      ],
+      "analysis": "原词表配对：objective ↔ impartial。\nobjective：客观的; 客观标准; 目标\nimpartial：客观公正的; 公正的; 中立的\n出处：PDF第22页，词表页码19，第29组。\n本题用于记忆词表配对；多义词的其他含义不一定相同。",
+      "answer": 4
+    },
+    {
+      "id": "bb202603_p19_r30",
+      "content": "【词表第19页·第30组】与 vitiate 配对的词或短语是？",
+      "options": [
+        "idealization",
+        "taint",
+        "undercut",
+        "cynical"
+      ],
+      "analysis": "原词表配对：vitiate ↔ undercut。\nvitiate：使之变质; 削弱; 损害\nundercut：底切; 削弱\n出处：PDF第22页，词表页码19，第30组。\n本题用于记忆词表配对；多义词的其他含义不一定相同。",
+      "answer": 3
+    }
+  ]
+}

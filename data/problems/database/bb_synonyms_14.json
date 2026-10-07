@@ -1,0 +1,367 @@
+{
+  "alias": "BB同义词·第14页（30题）",
+  "description": "对应原PDF第17页，词表页码14。保留30组原配对及释义。",
+  "star": 5,
+  "problems": [
+    {
+      "id": "bb202603_p14_r01",
+      "content": "【词表第14页·第01组】与 celebrity 配对的词或短语是？",
+      "options": [
+        "shrewd",
+        "safeguard",
+        "prominence",
+        "eliminate"
+      ],
+      "analysis": "原词表配对：celebrity ↔ prominence。\ncelebrity：名人\nprominence：突出; 显著; 名声\n出处：PDF第17页，词表页码14，第1组。\n本题用于记忆词表配对；多义词的其他含义不一定相同。",
+      "answer": 3
+    },
+    {
+      "id": "bb202603_p14_r02",
+      "content": "【词表第14页·第02组】与 uniform 配对的词或短语是？",
+      "options": [
+        "naïve",
+        "preserve",
+        "valorize",
+        "standardized"
+      ],
+      "analysis": "原词表配对：uniform ↔ standardized。\nuniform：统一的; 一致的; 相同的; 均匀的\nstandardized：标准化的\n出处：PDF第17页，词表页码14，第2组。\n本题用于记忆词表配对；多义词的其他含义不一定相同。",
+      "answer": 4
+    },
+    {
+      "id": "bb202603_p14_r03",
+      "content": "【词表第14页·第03组】与 pulverize 配对的词或短语是？",
+      "options": [
+        "dismiss",
+        "decisive",
+        "eviscerate",
+        "succumb to"
+      ],
+      "analysis": "原词表配对：pulverize ↔ eviscerate。\npulverize：粉碎、彻底打击\neviscerate：无情拆解、狠批\n出处：PDF第17页，词表页码14，第3组。\n本题用于记忆词表配对；多义词的其他含义不一定相同。",
+      "answer": 3
+    },
+    {
+      "id": "bb202603_p14_r04",
+      "content": "【词表第14页·第04组】与 speculative 配对的词或短语是？",
+      "options": [
+        "indirect",
+        "palatable",
+        "barbarity",
+        "conjectural"
+      ],
+      "analysis": "原词表配对：speculative ↔ conjectural。\nspeculative：投机的; 推测的; 猜测的\nconjectural：推测的; 揣测的\n出处：PDF第17页，词表页码14，第4组。\n本题用于记忆词表配对；多义词的其他含义不一定相同。",
+      "answer": 4
+    },
+    {
+      "id": "bb202603_p14_r05",
+      "content": "【词表第14页·第05组】与 arbitrary 配对的词或短语是？",
+      "options": [
+        "random",
+        "sustained by",
+        "futility",
+        "scarce"
+      ],
+      "analysis": "原词表配对：arbitrary ↔ random。\narbitrary：随意的; 任意的; 主观的; 武断的\nrandom：随机的; 任意的\n出处：PDF第17页，词表页码14，第5组。\n本题用于记忆词表配对；多义词的其他含义不一定相同。",
+      "answer": 1
+    },
+    {
+      "id": "bb202603_p14_r06",
+      "content": "【词表第14页·第06组】与 prophylactic 配对的词或短语是？",
+      "options": [
+        "inhibitory",
+        "restorative",
+        "chronicler",
+        "splendor"
+      ],
+      "analysis": "原词表配对：prophylactic ↔ inhibitory。\nprophylactic：预防的\ninhibitory：抑制性的\n出处：PDF第17页，词表页码14，第6组。\n本题用于记忆词表配对；多义词的其他含义不一定相同。",
+      "answer": 1
+    },
+    {
+      "id": "bb202603_p14_r07",
+      "content": "【词表第14页·第07组】与 subversion 配对的词或短语是？",
+      "options": [
+        "intermediate",
+        "indirect",
+        "polemic",
+        "violation"
+      ],
+      "analysis": "原词表配对：subversion ↔ violation。\nsubversion：颠覆; 破坏\nviolation：违反; 侵犯\n出处：PDF第17页，词表页码14，第7组。\n本题用于记忆词表配对；多义词的其他含义不一定相同。",
+      "answer": 4
+    },
+    {
+      "id": "bb202603_p14_r08",
+      "content": "【词表第14页·第08组】与 credulity 配对的词或短语是？",
+      "options": [
+        "decline",
+        "speculative",
+        "mutable",
+        "naiveté"
+      ],
+      "analysis": "原词表配对：credulity ↔ naiveté。\ncredulity：轻信\nnaiveté：天真\n出处：PDF第17页，词表页码14，第8组。\n本题用于记忆词表配对；多义词的其他含义不一定相同。",
+      "answer": 4
+    },
+    {
+      "id": "bb202603_p14_r09",
+      "content": "【词表第14页·第09组】与 scant 配对的词或短语是？",
+      "options": [
+        "crude",
+        "limited",
+        "exculpate",
+        "enigma"
+      ],
+      "analysis": "原词表配对：scant ↔ limited。\nscant：不足的; 缺乏的\nlimited：有限\n出处：PDF第17页，词表页码14，第9组。\n本题用于记忆词表配对；多义词的其他含义不一定相同。",
+      "answer": 2
+    },
+    {
+      "id": "bb202603_p14_r10",
+      "content": "【词表第14页·第10组】与 unfounded 配对的词或短语是？",
+      "options": [
+        "recoup",
+        "baseless",
+        "disparage",
+        "seed"
+      ],
+      "analysis": "原词表配对：unfounded ↔ baseless。\nunfounded：毫无根据的; 无根据的\nbaseless：毫无根据的\n出处：PDF第17页，词表页码14，第10组。\n本题用于记忆词表配对；多义词的其他含义不一定相同。",
+      "answer": 2
+    },
+    {
+      "id": "bb202603_p14_r11",
+      "content": "【词表第14页·第11组】与 obscure 配对的词或短语是？",
+      "options": [
+        "mixed",
+        "meticulous",
+        "exclusive",
+        "opaque"
+      ],
+      "analysis": "原词表配对：obscure ↔ opaque。\nobscure：模糊的; 晦涩的\nopaque：不透明的\n出处：PDF第17页，词表页码14，第11组。\n本题用于记忆词表配对；多义词的其他含义不一定相同。",
+      "answer": 4
+    },
+    {
+      "id": "bb202603_p14_r12",
+      "content": "【词表第14页·第12组】与 complicated 配对的词或短语是？",
+      "options": [
+        "knotty",
+        "mixed",
+        "indubitable",
+        "contrived"
+      ],
+      "analysis": "原词表配对：complicated ↔ knotty。\ncomplicated：复杂的\nknotty：复杂的; 棘手的\n出处：PDF第17页，词表页码14，第12组。\n本题用于记忆词表配对；多义词的其他含义不一定相同。",
+      "answer": 1
+    },
+    {
+      "id": "bb202603_p14_r13",
+      "content": "【词表第14页·第13组】与 rapacious 配对的词或短语是？",
+      "options": [
+        "pedigree",
+        "glut",
+        "avaricious",
+        "anonymous"
+      ],
+      "analysis": "原词表配对：rapacious ↔ avaricious。\nrapacious：贪婪; 贪婪的; 极度需求的\navaricious：贪婪的\n出处：PDF第17页，词表页码14，第13组。\n本题用于记忆词表配对；多义词的其他含义不一定相同。",
+      "answer": 3
+    },
+    {
+      "id": "bb202603_p14_r14",
+      "content": "【词表第14页·第14组】与 circumscribed 配对的词或短语是？",
+      "options": [
+        "disdain",
+        "flexibility",
+        "inconstant",
+        "restricted"
+      ],
+      "analysis": "原词表配对：circumscribed ↔ restricted。\ncircumscribed：受限的; 局限的; 被限制的\nrestricted：受限制的\n出处：PDF第17页，词表页码14，第14组。\n本题用于记忆词表配对；多义词的其他含义不一定相同。",
+      "answer": 4
+    },
+    {
+      "id": "bb202603_p14_r15",
+      "content": "【词表第14页·第15组】与 order 配对的词或短语是？",
+      "options": [
+        "unique",
+        "distill",
+        "stability",
+        "truculence"
+      ],
+      "analysis": "原词表配对：order ↔ stability。\norder：命令; 次序\nstability：稳定性\n出处：PDF第17页，词表页码14，第15组。\n本题用于记忆词表配对；多义词的其他含义不一定相同。",
+      "answer": 3
+    },
+    {
+      "id": "bb202603_p14_r16",
+      "content": "【词表第14页·第16组】与 riddle 配对的词或短语是？",
+      "options": [
+        "wearisome",
+        "artificial",
+        "conundrum",
+        "safeguard"
+      ],
+      "analysis": "原词表配对：riddle ↔ conundrum。\nriddle：谜语\nconundrum：难题; 谜题\n出处：PDF第17页，词表页码14，第16组。\n本题用于记忆词表配对；多义词的其他含义不一定相同。",
+      "answer": 3
+    },
+    {
+      "id": "bb202603_p14_r17",
+      "content": "【词表第14页·第17组】与 anomaly 配对的词或短语是？",
+      "options": [
+        "exacting",
+        "foreswear",
+        "inessential",
+        "aberration"
+      ],
+      "analysis": "原词表配对：anomaly ↔ aberration。\nanomaly：异常; 异常现象\naberration：反常; 异常\n出处：PDF第17页，词表页码14，第17组。\n本题用于记忆词表配对；多义词的其他含义不一定相同。",
+      "answer": 4
+    },
+    {
+      "id": "bb202603_p14_r18",
+      "content": "【词表第14页·第18组】与 dimming 配对的词或短语是？",
+      "options": [
+        "darkening",
+        "isolated",
+        "scolding",
+        "hesitancy"
+      ],
+      "analysis": "原词表配对：dimming ↔ darkening。\ndimming：调暗\ndarkening：变暗; 加深（比喻消极）\n出处：PDF第17页，词表页码14，第18组。\n本题用于记忆词表配对；多义词的其他含义不一定相同。",
+      "answer": 1
+    },
+    {
+      "id": "bb202603_p14_r19",
+      "content": "【词表第14页·第19组】与 bedrock 配对的词或短语是？",
+      "options": [
+        "foundations",
+        "calculated",
+        "supplementary",
+        "encomium"
+      ],
+      "analysis": "原词表配对：bedrock ↔ foundations。\nbedrock：基石\nfoundations：基础\n出处：PDF第17页，词表页码14，第19组。\n本题用于记忆词表配对；多义词的其他含义不一定相同。",
+      "answer": 1
+    },
+    {
+      "id": "bb202603_p14_r20",
+      "content": "【词表第14页·第20组】与 shortcoming 配对的词或短语是？",
+      "options": [
+        "fault",
+        "trusted",
+        "safeguard",
+        "scary"
+      ],
+      "analysis": "原词表配对：shortcoming ↔ fault。\nshortcoming：缺点\nfault：错误\n出处：PDF第17页，词表页码14，第20组。\n本题用于记忆词表配对；多义词的其他含义不一定相同。",
+      "answer": 1
+    },
+    {
+      "id": "bb202603_p14_r21",
+      "content": "【词表第14页·第21组】与 unassuming 配对的词或短语是？",
+      "options": [
+        "apprehension",
+        "upend",
+        "modest",
+        "implacable"
+      ],
+      "analysis": "原词表配对：unassuming ↔ modest。\nunassuming：谦逊; 谦逊的\nmodest：谦逊的; 简朴的; 谦虚的; 适度的\n出处：PDF第17页，词表页码14，第21组。\n本题用于记忆词表配对；多义词的其他含义不一定相同。",
+      "answer": 3
+    },
+    {
+      "id": "bb202603_p14_r22",
+      "content": "【词表第14页·第22组】与 quixotic 配对的词或短语是？",
+      "options": [
+        "flexibility",
+        "unsustainable",
+        "idealistic",
+        "slippery"
+      ],
+      "analysis": "原词表配对：quixotic ↔ idealistic。\nquixotic：不切实际的; 空想的\nidealistic：理想主义的\n出处：PDF第17页，词表页码14，第22组。\n本题用于记忆词表配对；多义词的其他含义不一定相同。",
+      "answer": 3
+    },
+    {
+      "id": "bb202603_p14_r23",
+      "content": "【词表第14页·第23组】与 robust 配对的词或短语是？",
+      "options": [
+        "strong",
+        "abjection",
+        "excoriate",
+        "rapturous"
+      ],
+      "analysis": "原词表配对：robust ↔ strong。\nrobust：强壮的; 强健的; 强劲的\nstrong：强的; 强大的; 强烈的; （指力量; 效果等强大的）\n出处：PDF第17页，词表页码14，第23组。\n本题用于记忆词表配对；多义词的其他含义不一定相同。",
+      "answer": 1
+    },
+    {
+      "id": "bb202603_p14_r24",
+      "content": "【词表第14页·第24组】与 predilection 配对的词或短语是？",
+      "options": [
+        "characteristic of",
+        "prodigious",
+        "proclivity",
+        "rapprochement"
+      ],
+      "analysis": "原词表配对：predilection ↔ proclivity。\npredilection：爱好\nproclivity：倾向; 偏好\n出处：PDF第17页，词表页码14，第24组。\n本题用于记忆词表配对；多义词的其他含义不一定相同。",
+      "answer": 3
+    },
+    {
+      "id": "bb202603_p14_r25",
+      "content": "【词表第14页·第25组】与 relished 配对的词或短语是？",
+      "options": [
+        "salient",
+        "consequential",
+        "ancillary",
+        "delighted in"
+      ],
+      "analysis": "原词表配对：relished ↔ delighted in。\nrelished：享受\ndelighted in：因……而欣喜\n出处：PDF第17页，词表页码14，第25组。\n本题用于记忆词表配对；多义词的其他含义不一定相同。",
+      "answer": 4
+    },
+    {
+      "id": "bb202603_p14_r26",
+      "content": "【词表第14页·第26组】与 limiting 配对的词或短语是？",
+      "options": [
+        "confining",
+        "timorous",
+        "erudite",
+        "perfection"
+      ],
+      "analysis": "原词表配对：limiting ↔ confining。\nlimiting：限制性的\nconfining：限制的\n出处：PDF第17页，词表页码14，第26组。\n本题用于记忆词表配对；多义词的其他含义不一定相同。",
+      "answer": 1
+    },
+    {
+      "id": "bb202603_p14_r27",
+      "content": "【词表第14页·第27组】与 nebulous 配对的词或短语是？",
+      "options": [
+        "purveyor",
+        "unknown",
+        "scant",
+        "vague"
+      ],
+      "analysis": "原词表配对：nebulous ↔ vague。\nnebulous：模糊的; 不清楚的; 不明朗的\nvague：模糊的; 含糊的\n出处：PDF第17页，词表页码14，第27组。\n本题用于记忆词表配对；多义词的其他含义不一定相同。",
+      "answer": 4
+    },
+    {
+      "id": "bb202603_p14_r28",
+      "content": "【词表第14页·第28组】与 paltry 配对的词或短语是？",
+      "options": [
+        "unknown",
+        "vehemently",
+        "disregarded",
+        "meager"
+      ],
+      "analysis": "原词表配对：paltry ↔ meager。\npaltry：微不足道的; 不值一提的;（数量）微小的; 无价值的;\nmeager：贫乏的; 不足的; 稀少的; 微薄的\n出处：PDF第17页，词表页码14，第28组。\n本题用于记忆词表配对；多义词的其他含义不一定相同。",
+      "answer": 4
+    },
+    {
+      "id": "bb202603_p14_r29",
+      "content": "【词表第14页·第29组】与 exactitude 配对的词或短语是？",
+      "options": [
+        "verisimilitude",
+        "intrigue",
+        "meticulousness",
+        "fecund"
+      ],
+      "analysis": "原词表配对：exactitude ↔ meticulousness。\nexactitude：精确性; 准确性; 确切\nmeticulousness：一丝不苟\n出处：PDF第17页，词表页码14，第29组。\n本题用于记忆词表配对；多义词的其他含义不一定相同。",
+      "answer": 3
+    },
+    {
+      "id": "bb202603_p14_r30",
+      "content": "【词表第14页·第30组】与 evasive 配对的词或短语是？",
+      "options": [
+        "marshal",
+        "voracious",
+        "excessive",
+        "elusive"
+      ],
+      "analysis": "原词表配对：evasive ↔ elusive。\nevasive：回避的\nelusive：难以达到的; 难以捉摸的\n出处：PDF第17页，词表页码14，第30组。\n本题用于记忆词表配对；多义词的其他含义不一定相同。",
+      "answer": 4
+    }
+  ]
+}
